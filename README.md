@@ -62,6 +62,7 @@ Interactive visualizations of all key insights and business metrics.
 - 🌞 **Seasonal Strategy**: Summer discount campaigns
 - ⭐ **Rating Improvement**: Maximize review participation
 
-
+**Screenshot of dashboard:**  
+![Preview of Homepage](https://github.com/Arijeet226/Customer_Behavior_Analysis_Python-SQL-Tableau/blob/922721973440394d2cf7f67eb350e8f5af0e3513/Screenshot%202025-12-06%20204349.png)
 
 

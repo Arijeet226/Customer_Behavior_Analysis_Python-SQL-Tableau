@@ -3,18 +3,18 @@ This is a complete project on customer behavior analysis solving multiple real w
 
 # Customer Shopping Behavior Analysis
 
-Analyzes 3,900 customer transactions to uncover spending patterns, segmentation, and business insights using Python, SQL (PostgreSQL), and Power BI. [file:1]
+Analyzes 3,900 customer transactions to uncover spending patterns, segmentation, and business insights using Python, SQL (PostgreSQL), and Power BI.
 
 ## 📊 Project Overview
-Examines transactional data across product categories to reveal customer spending patterns, segments, product preferences, and subscription behaviors for strategic decision-making. [file:1]
+Examines transactional data across product categories to reveal customer spending patterns, segments, product preferences, and subscription behaviors for strategic decision-making. 
 
 ## 📁 Dataset Rows: 3,900 | Columns: 18
 **Key Features:**
 - **Demographics**: Age, Gender, Location, Subscription Status
 - **Purchases**: Item, Category, Amount, Season, Size, Color
-- **Behavior**: Discounts, Previous Purchases, Frequency, Ratings, Shipping [file:1]
+- **Behavior**: Discounts, Previous Purchases, Frequency, Ratings, Shipping
 
-**Data Quality**: 37 missing Review Rating values (imputed by category median) [file:1]
+**Data Quality**: 37 missing Review Rating values (imputed by category median) 
 
 ## 🛠️ Tech Stack
 - **Python** (pandas): EDA & Data Prep
@@ -48,10 +48,10 @@ Consistency → Drop redundant promocodeused column
 7. Customer Segmentation (New/Returning/Loyal)
 8. Top 3 Products per Category
 9. Repeat Buyer Subscription Patterns
-10. Revenue by Age Group [file:1]
+10. Revenue by Age Group 
 
 ## 📈 Power BI Dashboard
-Interactive visualizations of all key insights and business metrics. [file:1]
+Interactive visualizations of all key insights and business metrics.
 
 ## 💡 Business Recommendations
 - 🎯 **Boost Subscriptions**: Exclusive subscriber benefits
@@ -60,6 +60,8 @@ Interactive visualizations of all key insights and business metrics. [file:1]
 - 🚀 **Product Focus**: Promote top-rated bestsellers
 - 🎨 **Targeted Marketing**: High-revenue age groups + express shipping
 - 🌞 **Seasonal Strategy**: Summer discount campaigns
-- ⭐ **Rating Improvement**: Maximize review participation [file:1]
+- ⭐ **Rating Improvement**: Maximize review participation
+
+
 
 
